@@ -1,0 +1,12 @@
+.img{
+	background-image: url(/Images/Back-Image.jpg);height: 520px;text-align: center;
+}
+.h1{
+	text-align: center;color: #ffffff;font-size: 81px;font-weight: 300;padding-bottom: 15px;
+}
+.p{
+	color: #ffffff;font-size: 27px;line-height: 30px;font-weight: 300;
+}
+.first{
+	margin-top: 110px;
+}

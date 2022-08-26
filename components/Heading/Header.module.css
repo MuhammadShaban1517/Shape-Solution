@@ -1,0 +1,33 @@
+.Heading{
+	background-color: black;height: 60px;
+}
+.menu{
+
+}
+.menus{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+.float{
+  float: left;
+}
+
+.float a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  list-style: none;
+}
+
+.float a:hover {
+  background-color: #111;
+}
+.floats{float: right;line-height: 2.2;
+
+}

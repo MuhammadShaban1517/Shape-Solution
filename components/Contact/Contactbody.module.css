@@ -1,0 +1,44 @@
+.h2 h2{    color: #0eb493;text-align: center;
+    font-size: 28px;
+    font-weight: 800
+
+}
+.h2{
+	margin-top: 50px;margin-bottom: 100px;
+}
+.p{
+	    font-weight: 700;text-align: center;
+    line-height: 24px;
+    font-size: 18px;
+    color: #5b646e;
+}
+.section1{
+	margin-top: 50px;margin-bottom: 100px;
+}
+.grey{
+	font-size: 13px;
+    color: #6a737b
+}
+.black{
+	font-size: 13px;
+	color: black;
+}
+.h1{
+	color: #062033;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    margin-bottom: 25px;
+    margin-top: 0px;
+}
+.form1{
+	width: 100%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.form{
+	margin-top: 30px;
+}
+.btn{
+	float: right;margin-top: 20px;margin-right: 20px;
+}

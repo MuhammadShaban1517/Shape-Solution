@@ -1,0 +1,35 @@
+.mine{
+	text-align: center;
+}
+.experh2{
+	    color: #0eb493;font-size: 28px;font-weight: 800;text-align: center;
+}
+.main{
+	padding-top: 40px;padding-bottom: 60px;
+}
+.firstp{
+	    font-weight: 600;line-height: 24px;font-size: 23px;color: #5b646e;text-align: center;
+	    margin-bottom: 65px;
+}
+.mines{ 
+ background-color: #fff;
+}
+.menu{
+	    display: inline-block;
+    border: 1px solid transparent;
+    list-style: none;
+    padding: 6px 12px;
+    cursor: pointer;
+    border-color: #aaa;
+    margin: 10px;
+        background-color: #0eb493;
+    border-radius: 6px;
+    color: #fff;
+    padding: 5px 17px;
+    font-size: 18px
+    
+}
+.bar{
+	margin-top: 50px;margin-bottom: 50px;
+}
+
